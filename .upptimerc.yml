@@ -7,8 +7,8 @@ sites:
     url: https://www.google.com
   - name: Wikipedia
     url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: Digis Mak
+    url: https://digismak.com
   - name: The Canadian News
     url: https://thecanadian.news
 
